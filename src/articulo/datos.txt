@@ -1,0 +1,6 @@
+Articulo      Precio Base      Precio Detal      Precio x Mayor      
+collar          25600.0         33280.0         29440.0         
+anillos         10500.0         13650.0         12075.0         
+cinturones         12000.0         15600.0         13800.0         
+cordones         1000.0         1300.0         1150.0         
+cordones         1470.0         1911.0         1690.5         
